@@ -1,4 +1,6 @@
 - 👋 Hi, I’m @ansh-2
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in Movies, Travelling Hills, Music
+- 🌱 I’m currently learning Full Stack Development.
+- 
+- 
 
